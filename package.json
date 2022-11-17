@@ -1,0 +1,15 @@
+{
+  "name": "315-homework2",
+  "version": "1.0.0",
+  "description": "homework2",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "live-server"
+  },
+  "author": "Esmeralda Gonzalez",
+  "license": "ISC"
+}
